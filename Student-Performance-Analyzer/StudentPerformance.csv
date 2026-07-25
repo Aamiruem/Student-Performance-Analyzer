@@ -1,0 +1,201 @@
+student_id,gender,age,study_hours_per_week,attendance_percentage,previous_score,assignments_completed,sleep_hours_per_day,internet_access,extracurricular_activities,parental_education,tutoring,final_score,performance_level
+STU0001,Female,17,30,58,96,9,5,Yes,No,Graduate,No,92.3,Excellent
+STU0002,Male,22,4,86,45,7,4.5,Yes,No,Postgraduate,No,52.5,Needs Improvement
+STU0003,Male,16,16,93,40,9,7.3,Yes,Yes,High School,No,69.4,Average
+STU0004,Male,20,14,81,76,7,5.8,Yes,Yes,Graduate,No,72.1,Good
+STU0005,Male,17,28,76,64,5,5.4,Yes,Yes,High School,No,77.3,Good
+STU0006,Female,21,22,98,74,8,5.4,No,Yes,Graduate,No,86.9,Excellent
+STU0007,Female,22,35,80,88,3,7.7,Yes,Yes,High School,No,85.8,Excellent
+STU0008,Male,16,8,73,40,2,6.3,Yes,Yes,Graduate,Yes,57,Average
+STU0009,Male,16,15,100,98,6,7.9,Yes,No,Graduate,No,90.4,Excellent
+STU0010,Male,20,7,90,91,8,5.3,No,No,High School,No,81.9,Good
+STU0011,Male,20,15,96,82,7,7.9,Yes,No,Postgraduate,Yes,81.2,Good
+STU0012,Female,15,30,91,59,6,4.8,Yes,Yes,Graduate,No,76.7,Good
+STU0013,Female,17,19,81,86,6,7.4,Yes,No,Graduate,No,85.8,Excellent
+STU0014,Female,16,28,56,83,7,8.5,No,No,Diploma,No,83.5,Good
+STU0015,Male,22,27,82,76,5,7.6,Yes,Yes,High School,No,86.1,Excellent
+STU0016,Female,15,6,77,69,10,8.7,Yes,Yes,Graduate,No,74.4,Good
+STU0017,Female,17,11,95,88,8,7.3,No,Yes,Postgraduate,No,88,Excellent
+STU0018,Male,17,10,87,83,7,6.9,Yes,Yes,High School,Yes,79.5,Good
+STU0019,Male,22,22,95,65,4,5.3,Yes,Yes,Postgraduate,No,77.5,Good
+STU0020,Female,17,18,81,83,7,8.9,Yes,Yes,Graduate,Yes,86.3,Excellent
+STU0021,Female,19,23,96,44,4,8.1,Yes,No,Graduate,No,72.4,Good
+STU0022,Male,18,22,75,53,2,8,Yes,No,Graduate,No,64.5,Average
+STU0023,Female,19,21,67,91,9,8.4,Yes,Yes,Diploma,No,83.9,Good
+STU0024,Female,15,8,64,69,2,4.6,Yes,Yes,Graduate,No,54.6,Needs Improvement
+STU0025,Male,18,24,92,56,2,4.5,No,No,Diploma,Yes,65.7,Average
+STU0026,Female,16,22,70,55,3,6.2,Yes,Yes,Diploma,No,69.1,Average
+STU0027,Male,15,24,65,69,6,8.7,Yes,Yes,High School,No,75.2,Good
+STU0028,Male,21,3,67,62,4,4.8,Yes,No,Diploma,Yes,58.2,Average
+STU0029,Male,20,7,81,40,5,6.1,Yes,No,Diploma,Yes,63.5,Average
+STU0030,Male,15,5,79,67,5,6.7,Yes,Yes,Diploma,No,65.9,Average
+STU0031,Female,17,26,93,74,8,6.7,Yes,No,Graduate,No,83.7,Good
+STU0032,Male,16,21,60,45,6,8.2,No,Yes,Graduate,Yes,68.1,Average
+STU0033,Female,20,33,81,68,10,7.2,Yes,No,High School,Yes,88.2,Excellent
+STU0034,Female,20,19,97,45,4,5.4,Yes,Yes,Postgraduate,No,68.2,Average
+STU0035,Male,18,33,78,45,6,4.6,Yes,No,Graduate,Yes,73.5,Good
+STU0036,Male,15,25,63,62,6,4.8,Yes,Yes,Graduate,No,72.2,Good
+STU0037,Female,15,12,73,77,8,6.9,No,No,High School,No,78.1,Good
+STU0038,Female,16,11,98,91,7,8.4,Yes,No,High School,No,81.1,Good
+STU0039,Female,17,8,86,74,2,8.2,Yes,Yes,Graduate,No,67.4,Average
+STU0040,Male,22,34,87,96,4,5.1,Yes,No,Graduate,No,91.8,Excellent
+STU0041,Female,20,23,77,93,7,6.9,No,No,High School,Yes,89.9,Excellent
+STU0042,Male,19,9,58,98,3,7.6,Yes,Yes,Graduate,No,73.4,Good
+STU0043,Female,17,19,76,50,6,6.4,Yes,Yes,Graduate,No,71.9,Good
+STU0044,Female,22,4,75,66,6,6.2,Yes,Yes,Graduate,No,63.7,Average
+STU0045,Male,19,20,93,59,9,8.7,Yes,Yes,Graduate,Yes,80,Good
+STU0046,Male,15,3,89,98,2,4.5,Yes,Yes,Graduate,No,65.4,Average
+STU0047,Female,16,23,72,69,8,4.7,No,No,Diploma,Yes,75.7,Good
+STU0048,Female,22,16,69,58,10,6.9,Yes,Yes,Graduate,No,72,Good
+STU0049,Female,18,21,83,61,9,6.6,Yes,No,High School,No,75.8,Good
+STU0050,Female,18,30,92,85,6,8,Yes,Yes,High School,Yes,99,Excellent
+STU0051,Female,16,8,99,73,6,4.7,Yes,Yes,Graduate,Yes,73.2,Good
+STU0052,Male,18,12,61,89,4,5.4,Yes,Yes,Diploma,Yes,72.4,Good
+STU0053,Male,21,18,99,89,2,7.5,No,Yes,Graduate,No,82.4,Good
+STU0054,Female,18,13,74,66,2,5,Yes,No,Graduate,No,59.2,Average
+STU0055,Female,21,16,81,88,2,5.8,Yes,No,Graduate,No,79.1,Good
+STU0056,Female,18,21,65,98,4,5.6,Yes,No,Graduate,Yes,80.4,Good
+STU0057,Female,22,27,82,95,5,6.4,No,No,Graduate,Yes,90.9,Excellent
+STU0058,Female,15,19,81,59,6,7,Yes,Yes,Graduate,No,75.9,Good
+STU0059,Female,17,15,55,94,2,7.8,Yes,Yes,Graduate,Yes,74.3,Good
+STU0060,Female,22,33,63,65,5,6,Yes,No,High School,Yes,79.3,Good
+STU0061,Male,18,35,78,49,3,5.7,Yes,Yes,Postgraduate,Yes,73.3,Good
+STU0062,Male,22,35,93,93,9,7.5,Yes,Yes,Graduate,No,100,Excellent
+STU0063,Male,15,23,61,90,7,7.5,Yes,Yes,High School,No,82.8,Good
+STU0064,Female,17,15,80,62,8,5.5,Yes,No,Graduate,Yes,77.2,Good
+STU0065,Male,22,13,88,47,7,8.7,No,Yes,Diploma,No,64.8,Average
+STU0066,Male,18,14,60,79,3,6,Yes,Yes,High School,No,68.8,Average
+STU0067,Female,15,14,88,82,8,5.9,Yes,Yes,High School,No,84.7,Good
+STU0068,Male,15,32,75,78,8,6,No,No,High School,No,87.5,Excellent
+STU0069,Female,15,3,95,79,5,7.7,Yes,Yes,Postgraduate,Yes,76.2,Good
+STU0070,Male,22,28,65,48,6,6,Yes,Yes,Graduate,No,75.6,Good
+STU0071,Female,22,4,55,83,4,5.4,Yes,Yes,Postgraduate,No,65.9,Average
+STU0072,Female,16,16,70,67,5,5,Yes,No,High School,No,72.1,Good
+STU0073,Male,20,27,98,79,9,8.8,No,Yes,Graduate,No,86.6,Excellent
+STU0074,Male,20,13,84,87,6,7.3,Yes,Yes,Postgraduate,No,81.9,Good
+STU0075,Female,21,33,74,53,7,7.1,Yes,Yes,Diploma,No,75.8,Good
+STU0076,Female,19,26,84,69,8,6.6,Yes,Yes,High School,No,87,Excellent
+STU0077,Male,19,34,56,43,2,6.6,Yes,No,Postgraduate,Yes,66,Average
+STU0078,Male,18,18,64,40,7,8.8,Yes,Yes,Diploma,No,64.9,Average
+STU0079,Male,15,8,68,66,2,8.5,Yes,No,Diploma,Yes,65.5,Average
+STU0080,Female,22,21,77,85,7,5.7,Yes,Yes,High School,Yes,88.6,Excellent
+STU0081,Female,21,21,94,81,10,8.8,Yes,Yes,High School,Yes,91.4,Excellent
+STU0082,Male,18,18,89,93,6,5.1,Yes,Yes,Postgraduate,No,83.3,Good
+STU0083,Female,15,25,79,75,8,5.5,Yes,No,High School,No,79.3,Good
+STU0084,Male,21,12,72,74,5,7.6,Yes,Yes,Postgraduate,Yes,74.6,Good
+STU0085,Male,19,7,84,62,7,6.5,Yes,No,Graduate,No,67.4,Average
+STU0086,Male,19,30,93,64,4,7.2,Yes,Yes,Graduate,Yes,84.6,Good
+STU0087,Male,20,8,67,84,5,7.6,Yes,Yes,High School,No,72.2,Good
+STU0088,Male,18,9,93,66,6,7.7,Yes,No,Graduate,Yes,78.3,Good
+STU0089,Female,18,22,85,79,8,7.9,Yes,No,High School,Yes,84.7,Good
+STU0090,Female,17,26,74,49,4,8,Yes,Yes,Graduate,No,72.3,Good
+STU0091,Female,15,34,82,86,8,8.7,Yes,Yes,Graduate,No,97,Excellent
+STU0092,Male,15,35,62,43,3,7.3,Yes,No,Postgraduate,Yes,67.4,Average
+STU0093,Male,21,12,100,95,2,8.8,Yes,Yes,Postgraduate,No,81.5,Good
+STU0094,Female,20,17,79,61,9,7,Yes,No,Graduate,No,75.6,Good
+STU0095,Female,18,35,68,57,8,6.8,Yes,No,Graduate,No,86.6,Excellent
+STU0096,Male,22,8,58,52,6,5.6,Yes,Yes,High School,No,59.9,Average
+STU0097,Female,19,30,64,57,6,7.8,No,Yes,Graduate,Yes,75.1,Good
+STU0098,Male,20,33,100,90,10,7.6,Yes,No,Postgraduate,Yes,100,Excellent
+STU0099,Male,19,25,71,73,4,6.1,Yes,Yes,Graduate,No,79.1,Good
+STU0100,Male,15,22,74,80,4,7.4,Yes,Yes,Diploma,Yes,85.3,Excellent
+STU0101,Male,22,9,56,66,6,8.4,Yes,Yes,High School,No,66,Average
+STU0102,Female,19,35,58,95,8,5.8,No,No,High School,No,91,Excellent
+STU0103,Female,18,6,96,69,3,5.4,Yes,Yes,High School,No,63.7,Average
+STU0104,Male,16,28,92,58,7,5.9,Yes,No,High School,Yes,83.2,Good
+STU0105,Male,16,18,55,81,8,7.4,Yes,No,High School,No,77.7,Good
+STU0106,Female,18,33,65,62,7,5.4,Yes,Yes,Graduate,Yes,78.3,Good
+STU0107,Female,19,22,85,72,7,4.7,Yes,No,Diploma,Yes,81.1,Good
+STU0108,Male,19,15,73,86,2,8.2,Yes,No,Diploma,No,66.7,Average
+STU0109,Female,22,2,69,93,4,6.2,No,No,Postgraduate,No,64,Average
+STU0110,Male,16,34,87,58,4,6.6,Yes,No,Graduate,No,81.1,Good
+STU0111,Male,19,33,90,79,8,7.1,Yes,Yes,High School,Yes,97.3,Excellent
+STU0112,Female,21,26,78,79,6,4.9,Yes,No,Diploma,No,83.8,Good
+STU0113,Male,18,35,65,58,5,7.8,Yes,No,High School,No,81,Good
+STU0114,Female,19,21,67,50,4,8.2,Yes,Yes,Postgraduate,No,60,Average
+STU0115,Male,22,4,76,51,8,7.1,No,Yes,Graduate,No,59.4,Average
+STU0116,Male,15,5,69,55,8,8.6,No,No,Graduate,No,55.5,Average
+STU0117,Male,19,32,57,77,3,5.5,Yes,No,Postgraduate,No,72.8,Good
+STU0118,Male,19,34,99,80,8,8.9,No,No,Diploma,No,93.7,Excellent
+STU0119,Male,15,16,88,92,10,6.3,No,Yes,Postgraduate,No,92.8,Excellent
+STU0120,Male,15,10,81,79,3,6.4,Yes,Yes,High School,No,68.2,Average
+STU0121,Male,16,33,84,91,5,7.6,Yes,Yes,Diploma,No,94.3,Excellent
+STU0122,Female,18,20,85,84,3,5.7,Yes,No,Graduate,No,73.4,Good
+STU0123,Male,22,10,98,84,5,6.3,Yes,No,Graduate,Yes,78.6,Good
+STU0124,Female,21,32,65,75,8,6.3,Yes,No,Diploma,Yes,88.9,Excellent
+STU0125,Male,18,14,60,58,10,7.2,Yes,Yes,Graduate,No,66.4,Average
+STU0126,Female,17,15,95,63,8,8.6,Yes,No,Graduate,No,81,Good
+STU0127,Male,18,10,86,45,4,6.2,Yes,Yes,High School,No,61.9,Average
+STU0128,Female,17,2,65,61,3,8.5,Yes,Yes,Graduate,No,52.6,Needs Improvement
+STU0129,Female,20,5,85,66,2,7.4,Yes,No,Graduate,Yes,61.5,Average
+STU0130,Male,20,22,70,83,4,6.8,Yes,No,High School,No,78.3,Good
+STU0131,Female,17,32,70,59,3,9,Yes,Yes,Graduate,Yes,72.8,Good
+STU0132,Female,20,15,59,89,3,6.5,Yes,Yes,High School,Yes,71.3,Good
+STU0133,Female,19,4,55,93,2,4.9,Yes,Yes,High School,Yes,63.8,Average
+STU0134,Female,15,26,91,89,5,6.9,Yes,Yes,Graduate,No,88.3,Excellent
+STU0135,Female,15,31,90,42,2,5.4,Yes,No,Diploma,No,70.6,Good
+STU0136,Male,22,4,85,60,7,7.9,Yes,Yes,Postgraduate,Yes,69.3,Average
+STU0137,Female,20,22,70,66,10,5.4,Yes,Yes,Graduate,Yes,80.2,Good
+STU0138,Male,16,13,82,86,2,7.5,Yes,Yes,Graduate,No,78.9,Good
+STU0139,Female,16,19,57,89,5,7.8,Yes,Yes,Postgraduate,No,81.3,Good
+STU0140,Male,19,25,90,77,7,8.7,Yes,No,Postgraduate,Yes,82.4,Good
+STU0141,Female,20,32,93,85,8,7.9,Yes,Yes,Postgraduate,Yes,100,Excellent
+STU0142,Male,15,13,76,67,4,6,Yes,Yes,Graduate,No,70.5,Good
+STU0143,Male,21,14,63,59,2,6.6,Yes,No,Postgraduate,Yes,62.5,Average
+STU0144,Female,15,2,97,86,3,4.5,No,No,Graduate,Yes,67.8,Average
+STU0145,Male,20,21,73,75,10,6.4,Yes,Yes,Graduate,No,78.6,Good
+STU0146,Male,15,16,62,78,5,4.8,Yes,No,Diploma,Yes,73,Good
+STU0147,Male,18,14,86,42,4,8.8,Yes,No,Graduate,No,62.8,Average
+STU0148,Male,21,12,100,51,4,6.3,Yes,No,Graduate,No,69.3,Average
+STU0149,Female,19,33,72,71,8,5.2,Yes,Yes,Graduate,Yes,88.7,Excellent
+STU0150,Male,16,20,58,89,10,9,Yes,Yes,High School,No,86.6,Excellent
+STU0151,Male,21,20,70,61,3,8,Yes,Yes,Diploma,Yes,73.3,Good
+STU0152,Male,20,30,97,66,9,6,Yes,No,Graduate,Yes,93.7,Excellent
+STU0153,Male,18,18,64,98,3,8,Yes,Yes,Graduate,No,74.5,Good
+STU0154,Female,20,14,59,52,8,5.7,Yes,No,High School,No,59.9,Average
+STU0155,Female,17,12,96,70,7,4.5,No,No,Diploma,Yes,72.2,Good
+STU0156,Male,22,9,73,59,9,5.4,Yes,Yes,Graduate,No,69.3,Average
+STU0157,Male,16,16,58,49,2,5.7,Yes,Yes,Postgraduate,No,56.4,Average
+STU0158,Female,18,24,62,74,7,6.5,Yes,Yes,Diploma,No,75.8,Good
+STU0159,Female,22,33,88,64,9,7.4,Yes,No,High School,No,88.8,Excellent
+STU0160,Male,17,2,79,79,4,4.9,Yes,Yes,High School,No,64.5,Average
+STU0161,Female,17,34,87,97,10,5.6,Yes,No,Graduate,No,98.3,Excellent
+STU0162,Male,21,26,98,60,2,4.5,Yes,No,Graduate,No,72.7,Good
+STU0163,Male,20,35,79,79,2,5,No,No,High School,No,79.9,Good
+STU0164,Female,19,32,79,62,4,5.6,Yes,No,Diploma,No,81.7,Good
+STU0165,Female,18,30,99,97,2,6.7,Yes,Yes,Graduate,Yes,96.3,Excellent
+STU0166,Male,17,32,83,62,8,7.9,Yes,Yes,Graduate,Yes,85.2,Excellent
+STU0167,Female,19,27,100,71,4,7,Yes,No,High School,No,89.8,Excellent
+STU0168,Male,19,16,74,60,8,6.3,Yes,Yes,High School,No,71.2,Good
+STU0169,Male,17,29,80,57,10,5.6,Yes,Yes,Postgraduate,Yes,80.9,Good
+STU0170,Male,17,34,79,42,7,5.6,Yes,Yes,Postgraduate,No,73.9,Good
+STU0171,Male,22,26,80,84,10,6.6,Yes,Yes,High School,No,94.4,Excellent
+STU0172,Male,15,9,90,59,4,5.7,Yes,No,High School,No,65.3,Average
+STU0173,Male,16,33,89,75,4,7.8,No,No,Diploma,Yes,90.1,Excellent
+STU0174,Female,22,18,92,42,2,5.6,Yes,No,High School,No,64.6,Average
+STU0175,Female,19,33,98,76,6,8.8,Yes,Yes,Graduate,No,92.4,Excellent
+STU0176,Female,18,19,65,96,9,4.6,Yes,Yes,High School,Yes,86.4,Excellent
+STU0177,Female,20,5,55,40,3,7.3,Yes,No,Diploma,No,50.8,Needs Improvement
+STU0178,Male,17,16,62,63,9,5.1,Yes,Yes,Diploma,No,73.2,Good
+STU0179,Male,21,19,58,87,6,5.7,Yes,No,High School,No,78.3,Good
+STU0180,Female,19,20,74,80,3,7.4,Yes,Yes,Diploma,Yes,82,Good
+STU0181,Male,17,19,90,40,5,6,No,No,Diploma,Yes,73.3,Good
+STU0182,Male,19,19,76,64,9,6.3,Yes,Yes,Graduate,Yes,76.5,Good
+STU0183,Female,15,4,79,63,5,5.5,Yes,Yes,High School,No,60.6,Average
+STU0184,Female,16,3,76,75,9,6.5,Yes,Yes,High School,No,69.1,Average
+STU0185,Female,18,3,100,66,7,7.5,Yes,Yes,Postgraduate,No,67,Average
+STU0186,Female,18,21,77,72,8,4.5,Yes,No,Graduate,No,80.1,Good
+STU0187,Female,20,6,72,84,6,7.3,Yes,Yes,High School,No,72.4,Good
+STU0188,Male,20,23,87,72,6,6.6,Yes,No,High School,No,80.5,Good
+STU0189,Female,20,25,100,66,6,4.9,Yes,Yes,Graduate,No,83.5,Good
+STU0190,Female,15,6,84,65,7,8.6,Yes,Yes,Diploma,Yes,66.6,Average
+STU0191,Male,16,20,92,66,6,7.6,Yes,Yes,Graduate,Yes,83.6,Good
+STU0192,Female,15,12,77,94,4,8.5,Yes,No,Postgraduate,Yes,72.8,Good
+STU0193,Other,22,4,56,60,9,5.4,Yes,No,High School,Yes,56.9,Average
+STU0194,Female,17,26,80,83,9,6.5,Yes,Yes,Postgraduate,No,94.5,Excellent
+STU0195,Male,18,34,93,57,9,7.1,Yes,Yes,High School,Yes,89.7,Excellent
+STU0196,Female,18,28,87,77,7,6.9,Yes,Yes,Graduate,No,90.7,Excellent
+STU0197,Male,18,28,57,74,9,5.5,Yes,No,Postgraduate,Yes,83.7,Good
+STU0198,Male,22,14,94,47,2,7.8,Yes,No,Diploma,No,62,Average
+STU0199,Female,15,12,100,48,3,7.5,Yes,Yes,High School,No,69.1,Average
+STU0200,Male,16,2,82,46,6,5.6,Yes,No,Postgraduate,No,52,Needs Improvement
